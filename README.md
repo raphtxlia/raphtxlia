@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @raphtxlia
 - 👀 I’m interested in Games.
-- 🌱 I’m currently learning PHP, C# and C++.
-- 📫 How to reach me raphtalia勇者#7130 on Discord.
+- 🌱 I’m currently learning PHP, JS and Dirt.
